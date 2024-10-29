@@ -1,4 +1,4 @@
-  =>  Template Name    : Restoran - Bootstrap Restaurant Template
+  =>  Template Name    : Virgo - Bootstrap Restaurant Template
 
   =>  Template Link    : https://htmlcodex.com/bootstrap-restaurant-template
 
